@@ -1,0 +1,1 @@
+Adds an Lunar to ROR2 which has a chance to remove Dios from enemys but you can't use dios either
