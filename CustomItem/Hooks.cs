@@ -76,7 +76,7 @@ namespace CustomItem
                             int randomPosition = rand.Next(0, lstItemIndex.Count - 1);
                             ItemIndex itemToRemove = lstItemIndex[randomPosition];
                             EnemyInventory.RemoveItem(itemToRemove, 1);
-                            Chat.AddMessage("Removed " + itemToRemove);
+                            //Chat.AddMessage("Removed " + itemToRemove);
 
 
 
@@ -110,7 +110,7 @@ namespace CustomItem
                             if(itemToRemove != Assets.BiscoLeashItemIndex)
                             {
                                 EnemyInventory.RemoveItem(itemToRemove, 1);
-                                Chat.AddMessage("Removed " + itemToRemove + " from " + damageInfo.attacker.name);
+                                Chat.AddMessage("Removed " +  RoR2.ItemCatalog.GetItemDef(itemToRemove).name + " from " + self.GetComponent<CharacterBody>().GetUserName());
                                 self.GetComponent<CharacterBody>().AddBuff(CustomItem.indexNoHealBuff);
                             }
                         }
