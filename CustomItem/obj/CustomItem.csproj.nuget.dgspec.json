@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sirhamburger/Downloads/CustomItem-master/CustomItem/CustomItem.csproj": {}
+    "/home/sirhamburger/Git/LunarRemoveDio/CustomItem/CustomItem.csproj": {}
   },
   "projects": {
-    "/home/sirhamburger/Downloads/CustomItem-master/CustomItem/CustomItem.csproj": {
+    "/home/sirhamburger/Git/LunarRemoveDio/CustomItem/CustomItem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sirhamburger/Downloads/CustomItem-master/CustomItem/CustomItem.csproj",
+        "projectUniqueName": "/home/sirhamburger/Git/LunarRemoveDio/CustomItem/CustomItem.csproj",
         "projectName": "CustomItem",
-        "projectPath": "/home/sirhamburger/Downloads/CustomItem-master/CustomItem/CustomItem.csproj",
+        "projectPath": "/home/sirhamburger/Git/LunarRemoveDio/CustomItem/CustomItem.csproj",
         "packagesPath": "/home/sirhamburger/.nuget/packages/",
-        "outputPath": "/home/sirhamburger/Downloads/CustomItem-master/CustomItem/obj/",
+        "outputPath": "/home/sirhamburger/Git/LunarRemoveDio/CustomItem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sirhamburger/.nuget/NuGet/NuGet.Config"

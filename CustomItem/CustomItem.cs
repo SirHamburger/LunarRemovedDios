@@ -25,7 +25,7 @@ namespace CustomItem
             Logger = base.Logger;
             var noHeal = new R2API.CustomBuff("noHeal" ,new BuffDef{
                         buffColor = Color.red,
-                        canStack = false,
+                        canStack = true,
                         isDebuff = true,
                         name = "NoHeal",
                     });

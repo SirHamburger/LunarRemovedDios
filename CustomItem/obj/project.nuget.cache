@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dm13h22YXHmTW7ZyiA2TydaeXohf+kPVsf4B2ZLpvaZzSND3kyi0Baky+bSpJ1Dejm6av9MRerESmXYBhlPvhA==",
+  "dgSpecHash": "O9pcVQx0gMg3aD7ngkLlWoIFmFmS1w64r0dyhrNMNdpnTiRdSAhsXq+A6UOzxKRj6p2193orjH8z2+8HTjXS/Q==",
   "success": true,
-  "projectFilePath": "/home/sirhamburger/Downloads/CustomItem-master/CustomItem/CustomItem.csproj",
+  "projectFilePath": "/home/sirhamburger/Git/LunarRemoveDio/CustomItem/CustomItem.csproj",
   "expectedPackageFiles": [
     "/home/sirhamburger/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/sirhamburger/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
