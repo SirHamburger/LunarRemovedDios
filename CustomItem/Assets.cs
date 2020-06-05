@@ -75,7 +75,7 @@ namespace CustomItem
             R2API.AssetPlus.Languages.AddToken("BISCOLEASH_PICKUP", "Steal the power of enemies");
             //The Description is where you put the actual numbers and give an advanced description.
             R2API.AssetPlus.Languages.AddToken("BISCOLEASH_DESC",
-                "Steals items of enemies \n<style=cDeath>BUT</style> enemies can also steal items. \nHas a chance of 5% <style=cIsDamage>(+5% per item stack)</style> to steal an item of an enemy <style=cDeath>BUT</style> enemies have a chance of 0.5%  <style=cIsDamage>(+0.5% per item stack) to steal it from you</style>");
+                "Steals items of enemies \n<style=cDeath>BUT</style> enemies can also steal items. \nHas a chance of 8% <style=cIsDamage>(+8% per item stack)</style> to steal an item of an enemy <style=cDeath>BUT</style> enemies have a chance of <style=cIsDamage>0.5% multiplied with item count divided by 20</style>  <style=cIsDamage>(+0.5% per item stack) to steal it from you</style>");
             //The Lore is, well, flavor. You can write pretty much whatever you want here.
             R2API.AssetPlus.Languages.AddToken("BISCOLEASH_LORE",
                 "You were always there, by my side, whether we sat or played. Our friendship was a joyful ride, I wish you could have stayed.");
